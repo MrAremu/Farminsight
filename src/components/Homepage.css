@@ -1,0 +1,48 @@
+.homepage {
+    background-color: #008000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .homepage h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 0;
+    text-align: center;
+  }
+  
+  .homepage p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 20px 0;
+  }
+  
+  .homepage .subtitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .homepage .cta {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .homepage .cta button {
+    background-color: #fff;
+    color: #008000;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .homepage .cta button:hover {
+    background-color: #fff;
+    color: #008000;
+    border-color: #008000;
+  }
+   
