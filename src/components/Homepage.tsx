@@ -1,12 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-const HomePage: React.FC = () => {
+function Homepage() {
   return (
-    <div>
-      <h1>Welcome to My Blog</h1>
-      <p>This is the home page of my blog.</p>
-    </div>
-  );
-};
+    <div>Homepage</div>
+  )
+}
 
-export default HomePage;
+export default Homepage
